@@ -1,0 +1,18 @@
+/* set the width of all images and auto align images*/
+img{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+/* center header on screen */
+h1{
+    text-align: center;
+}
+
+/* center sub-headers on screen */
+h2{
+    text-align: center;
+}
+
